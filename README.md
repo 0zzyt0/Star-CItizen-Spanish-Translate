@@ -1,3 +1,5 @@
+--------------------------------------------------------------
+
 Star Citizen ahora está disponible en ESPAÑOL gracias a esta traducción. ¡Explora el universo como nunca antes, en tu idioma!
 
 ➤ Versión de la traducción: LIVE 4.8.1 [HOTFIX VERSION]
@@ -21,5 +23,5 @@ Implementación de nuevos textos y corrección de errores gramaticales
 Corregidos errores en textos de objetos.
 Agregadas  nuevas misiones y Ubicaciones Nyx, Pyro y Stanton, evento especial TACTICAL STRIKE
 Arreglado ausencia de algunos textos. Y otras correcciones menores
-Agregados nuevos vehículos y sus pinturas de la Defensecon 2956
+
 --------------------------------------------------------------
